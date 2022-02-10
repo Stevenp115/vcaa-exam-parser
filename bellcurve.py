@@ -2,7 +2,6 @@
 """
 Created on Fri Jun 25 20:03:15 2021
 
-@author: Goat
 """
 
 import csv
